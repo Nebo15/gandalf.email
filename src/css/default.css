@@ -7,6 +7,11 @@
     padding: 0 0 32px 0;
 }
 
+.logo {
+    padding-bottom: 22px;
+    line-height: 0;
+}
+
 .footer {
     height: 30px;
     background-color: #e81a50;
