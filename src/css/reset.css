@@ -7,7 +7,7 @@ html {
 
 body {
     color: #3d3d3d;
-    font: 400 14px Montserrat, Arial sans-serif;
+    font: 400 14px Montserrat, Arial, sans-serif;
     line-height: 20px;
     -webkit-text-size-adjust: none;
 }
