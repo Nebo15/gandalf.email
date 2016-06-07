@@ -1,0 +1,26 @@
+{
+  "name": "gandalf.email",
+  "version": "1.0.0",
+  "description": "Email templates for [gandalf.web](https://github.com/Nebo15/gandalf.web)",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-email-builder": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nebo15/gandalf.email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nebo15/gandalf.email/issues"
+  },
+  "homepage": "https://github.com/Nebo15/gandalf.email#readme"
+}

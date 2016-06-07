@@ -1,0 +1,30 @@
+.main {
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    padding: 0 0 32px 0;
+}
+
+.footer {
+    height: 30px;
+    background-color: #e81a50;
+    padding: 10px;
+    color: #fff;
+    line-height: 0;
+}
+
+.line {
+    height: 2px;
+    background-color: #e81a50;
+}
+
+.content {
+    padding: 32px;
+}
+
+.content table {
+    max-width: 460px;
+    min-width: 200px;
+}
