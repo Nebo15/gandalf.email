@@ -1,0 +1,16 @@
+{
+  "token": "4b0de40a-3c17-4424-85d7-4cf0dc396a97",
+  "templates": [
+    {
+      "id": 689401,
+      "name": "Password Recovery",
+      "subject": "Password Recovery",
+      "src": "./build/password-recovery.html"
+    }, {
+      "id": 689382,
+      "name": "Registration",
+      "subject": "Welcome to Gandalf, and thanks for signing up!",
+      "src": "./build/registration.html"
+    }
+  ]
+}

@@ -8,7 +8,9 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-email-builder": "^1.0.4"
+    "gulp-email-builder": "^1.0.4",
+    "gulp-util": "^3.0.7",
+    "postmark": "^1.2.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
